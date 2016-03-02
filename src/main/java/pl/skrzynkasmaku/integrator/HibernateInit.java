@@ -25,7 +25,5 @@ public class HibernateInit {
         StringBuilder stringBuilder = new StringBuilder();
         stringBuilder.append("Processing terminated.");
         LogManager.getLogger(ServiceInit.class).log(Level.INFO, stringBuilder);
-        LogManager.getLogger(ServiceInit.class).log(Level.INFO, stringBuilder);
-        LogManager.getLogger(ServiceInit.class).log(Level.INFO, stringBuilder);
     }
 }
