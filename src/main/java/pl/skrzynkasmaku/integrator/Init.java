@@ -11,6 +11,10 @@ import pl.skrzynkasmaku.integrator.prestashop.model.Order;
 import pl.skrzynkasmaku.integrator.prestashop.model.OrderDetail;
 
 /**
+ * Komentarz linia A
+ * Komentarz linia B
+ */
+/**
  *
  * @author Bartosz Spychaj
  */
