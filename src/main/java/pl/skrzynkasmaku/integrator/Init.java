@@ -11,7 +11,6 @@ import pl.skrzynkasmaku.integrator.prestashop.model.Order;
 import pl.skrzynkasmaku.integrator.prestashop.model.OrderDetail;
 /**
  * Komentarz testowy linia 1
- * Komentarz testowy linia 2
  * Komentarz testowy linia 3
  */
 /**
